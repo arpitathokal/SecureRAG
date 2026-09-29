@@ -1,0 +1,11 @@
+Password Policy
+
+Passwords must contain at least fourteen characters. Multi-factor authentication is required for access to production systems.
+
+Incident Reporting
+
+Suspected security incidents must be reported to the security team within one hour of discovery. Reports should include the affected system and a concise description, but must not include passwords or authentication tokens.
+
+Data Classification
+
+Information is classified as Public, Internal, Confidential, or Restricted. Restricted information requires encryption in transit and at rest.
